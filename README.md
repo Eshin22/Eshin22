@@ -51,7 +51,7 @@
 
 ### 📫 Let’s Connect!
 
-- 💼 [LinkedIn]((https://www.linkedin.com/in/eshinmenusha22/))  
+- 💼 [LinkedIn]([(https://www.linkedin.com/in/eshinmenusha22/)](https://www.linkedin.com/in/eshinmenusha22/))  
 - 🧑‍💻 [GitHub](https://github.com/Eshin22)  
 - ✉️ **emenusha14@gmail.com**  
 
@@ -63,7 +63,7 @@ _“Build to solve. Learn to grow. Share to inspire.”_
 ---
 
 ### 📫 Let's Connect!
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]((https://www.linkedin.com/in/eshinmenusha22/)) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([(https://www.linkedin.com/in/eshinmenusha22/](https://www.linkedin.com/in/eshinmenusha22/))) 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Eshin22) 
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
 
