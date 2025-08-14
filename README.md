@@ -4,16 +4,16 @@
 
 ---
 
-###🌟 About Me
-🛠️ Passionate about building modern web applications using Next.js, Spring Boot, and MongoDB
-📚 Diving into Interpretable Machine Learning (ML) to drive impactful real-world solutions
-🔬 Currently researching AI-powered feedback systems to enhance student learning and assessment
-🤖 Passionate about Support Vector Machines (SVM) and their diverse practical applications
-✍️ Currently authoring a conference paper focused on ML for depression prediction
-☕ Skilled in Java development, specializing in gRPC microservices architecture
-📦 Experienced in deploying and scaling services using Kubernetes
-⚡ Proficient in event-driven architectures with Apache Kafka
-📋 Adept at agile project management using Jira 
+### 🌟 About Me  
+🛠️ Passionate about building modern web applications using **Next.js**, **Spring Boot**, and **MongoDB**  
+📚 Diving into **Interpretable Machine Learning (ML)** to drive impactful real-world solutions  
+🔬 Currently researching **AI-powered feedback systems** to enhance student learning and assessment  
+🤖 Passionate about **Support Vector Machines (SVM)** and their diverse practical applications  
+✍️ Currently authoring a **conference paper** focused on ML for **depression prediction**  
+☕ Skilled in **Java** development, specializing in **gRPC microservices** architecture  
+📦 Experienced in deploying and scaling services using **Kubernetes**  
+⚡ Proficient in event-driven architectures with **Apache Kafka**  
+📋 Adept at **agile project management** using **Jira**  
 
 ---
 
