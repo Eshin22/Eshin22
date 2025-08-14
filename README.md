@@ -18,10 +18,9 @@
 
 - 📦 **Peership** – Developing a smart delivery system with **secure IoT-based smart boxes**  
 - 🎯 **Adaptive Quiz Recommendation System** – Personalizing learning experiences for **A/L Chemistry students**  
-- 📜 **Paper Creation & Distribution System** – Innovating **exam workflows** and **study material distribution**  
+- 📜 Paper Review & Management System – A full-stack web app for tuition classes that streamlines academic paper reviews through role-based dashboards, real-time tracking, and secure collaboration between admins, reviewers, and teachers.
 - 📱 **Taskify** – A productivity app that helps users manage daily tasks, integrated with **Google Calendar**  
-- 💻 **Blockchain-based Applicant Verification** – Building an Ethereum-based application to verify job applicants using **smart contracts**  
-- 🤖 **Personalized Health Monitoring System** – Developing an **AI-driven health monitoring system** using **IoT devices** and **machine learning models**  
+- 💻 **Blockchain-based Applicant Verification** – Building an Ethereum-based application to verify job applicants using **smart contracts**    
 - 🌐 **MyPaper** – A web application for managing, creating, and distributing academic papers, with **workflow automation** and team collaboration tools  
 
 ---
