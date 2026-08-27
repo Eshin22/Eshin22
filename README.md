@@ -1,18 +1,17 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1a3a5c,100:58A6FF&height=200&section=header&text=Eshin%20Menusha&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20AI%20Researcher%20%7C%20Tech%20Enthusiast&descAlignY=58&descSize=16&descColor=adbac7" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1a3a5c,100:58A6FF&height=200&section=header&text=Eshin%20Menusha&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Science%20%26%20ML%20Engineer%20%7C%20Full-Stack%20Developer%20%7C%20Researcher&descAlignY=58&descSize=16&descColor=adbac7" width="100%"/>
 
 <br/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=620&lines=Building+intelligent+web+systems+%F0%9F%9A%80;Next.js+%7C+Spring+Boot+%7C+FastAPI+%7C+MongoDB;AI+Researcher+%7C+ML+for+Real-World+Impact+%F0%9F%94%AC;Blockchain+%7C+IoT+%7C+Microservices+Architecture" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Building+scalable%2C+data-driven+systems+%F0%9F%9A%80;Java+%7C+Spring+Boot+%7C+Next.js+%7C+AWS;Data+Science+%7C+ML+%7C+Applied+Mathematics+%F0%9F%94%AC;Microservices+%7C+NLP+%7C+GNNs+%7C+Agentic+AI" alt="Typing SVG" />
 </a>
 
 <br/><br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eshinmenusha22/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/EshinMenusha22)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Eshin22)
-[![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:emenusha14@gmail.com)
 ![Profile Views](https://komarev.com/ghpvc/?username=Eshin22&style=for-the-badge&color=58A6FF&label=PROFILE+VIEWS)
 
 </div>
@@ -24,15 +23,18 @@
 ```yaml
 name        : Eshin Menusha
 location    : Sri Lanka 🇱🇰
-role        : Full-Stack Developer & AI Researcher
+background  : Undergraduate — Data Science & Machine Learning Engineering, Minor in Mathematics
 focus       :
-  - Interpretable Machine Learning & Explainable AI (XAI)
-  - AI-powered feedback systems for education
-  - Conference paper → ML for depression prediction
-stack       : Next.js · Spring Boot · FastAPI · MongoDB · Python
-currently   : Exploring Blockchain, IoT, and gRPC Microservices
+  - Scalable microservices architectures & full-stack engineering
+  - Applied & pure mathematics, statistical learning
+  - Agentic AI workflows and NLP research
+stack       : Java · Spring Boot · React · Next.js · AWS · Python
+currently   : Researching microservice decomposition & Sinhala NLP
+goal        : Pursuing a PhD building on my research background
 motto       : "Build to solve. Learn to grow. Share to inspire."
 ```
+
+I'm a Computer Science undergraduate specializing in Data Science and Machine Learning, with a strong foundation in the Java ecosystem and AWS cloud services. My work spans full-stack development, DevOps, and UI/UX design, with a professional focus on building scalable microservices and high-performance applications across the full software development lifecycle. My research interests lie in applied and pure mathematics, statistical learning, and data science — currently pursuing coursework in operational research, linear models and multivariate statistics, algebra and topology, time series and stochastic processes, and optimization, alongside two ongoing research projects in microservice decomposition and Sinhala NLP.
 
 ---
 
@@ -74,69 +76,64 @@ motto       : "Build to solve. Learn to grow. Share to inspire."
 
 ---
 
-## 🔥 Current Projects
+## 🔬 Research Projects
+
+| Project | Description | Tools |
+|---|---|---|
+| 🧩 **Microservice Decomposition** *(Final Year Project)* | Improving automatic microservice decomposition via enhanced code embeddings — hierarchical clustering, call-graph community detection, and a multi-metric loss combining reconstruction, triplet, and clustering losses with architectural quality metrics | Python · PyTorch · GNN · Contrastive Learning |
+| 🇱🇰 **Sinhala Script Robustness (NLP)** | Evaluating whether LLM perplexity degradation on Romanized vs. Unicode Sinhala translates into real downstream task failures, across multiple open/closed models with paired statistical testing | Python · Hugging Face · PyTorch |
+
+---
+
+## 🔥 Featured Projects
 
 | # | Project | Description | Stack |
 |---|---------|-------------|-------|
-| 📦 | **Peership** | Smart delivery with secure IoT-based smart boxes | IoT · Next.js · Spring Boot |
-| 🎯 | **Adaptive Quiz System** | Personalized learning for A/L Chemistry students | ML · FastAPI · React |
-| 📜 | **Paper Review System** | Academic paper management with role-based dashboards | Next.js · MongoDB · JWT |
-| 📱 | **Taskify** | Productivity app integrated with Google Calendar | React Native · Spring Boot |
-| 💻 | **Blockchain Verification** | Ethereum-based job applicant verification | Solidity · Web3.js · Ethereum |
-| 🌐 | **MyPaper** | Academic paper creation, workflow & team collaboration | Next.js · Spring Boot · Kafka |
+| 💸 | **[PricePluse](https://github.com/ProductPriceTrackerOrg)** | Real-time multi-platform product price tracker with trend analysis, price-drop alerts, forecasting, and a GNN-powered recommendation engine | Scrapy · FastAPI · Next.js · Airflow · BigQuery · GNN |
+| 📄 | **[ResumeRover](https://github.com/ResumeRover/Main)** | Intelligent resume screening system with AI/ML candidate evaluation and blockchain-based credential verification | FastAPI · Next.js · MongoDB · Solidity · Ganache |
+| 🚚 | **[SCMSystem](https://github.com/HarshaYohan/SupplyChainManagementSystem/tree/master)** | Full-stack logistics platform integrating railway capacity planning with last-mile truck routing and workforce scheduling | Next.js · Node.js · MySQL |
+| 🎵 | **[Song Popularity Prediction](https://github.com/DataGuildHQ/Music-Hype-Prediction-ML-Approach)** | Predictive pipeline for the mlX 2.0 Regression Challenge using gradient-boosted ensembles; co-authored a peer-reviewed paper on the results | XGBoost · LightGBM · CatBoost |
+| 🛍️ | **[Clustering-Based Customer Segmentation](https://github.com/Eshin22/Clustering-Based-Customer-Segmentation-from-Online-Retail-Data)** | RFM feature engineering and comparative clustering (K-Means, DBSCAN, AGNES) for actionable customer personas | Python · Scikit-learn |
 
 ---
 
 ## 🧰 Tech Stack
 
-### 🌐 Frontend & Backend
+### 🌐 Languages & Frameworks
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=next.js&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 
 ### 🤖 AI & Machine Learning
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 
-### 🗄️ Databases & Messaging
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+### 🗄️ Databases
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
-### ☁️ DevOps & Infrastructure
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+### ☁️ Cloud, DevOps & Distributed Systems
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![gRPC](https://img.shields.io/badge/gRPC-244c5a?style=for-the-badge&logo=google&logoColor=white)
 
 ### ⛓️ Emerging Tech
 ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3C?style=for-the-badge&logo=ethereum&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/IoT-C51A4A?style=for-the-badge&logo=raspberry-pi&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
 
 ---
 
-## 🌱 Currently Learning
+## 📝 Research Interests
 
-```
-🧠 Explainable AI (XAI)        ████████████░░  85%
-⚡ FastAPI Microservices        ██████████░░░░  72%
-💡 UX for EdTech Platforms      ███████████░░░  78%
-🔐 Blockchain & Web3            ███████░░░░░░░  50%
-🌐 IoT + Real-time Analysis     ████████░░░░░░  58%
-```
-
----
-
-## 📝 Research & Achievements
-
-- 📄 **Conference Paper** — Authoring an ML paper on **depression prediction** using interpretable models
-- 🔬 **AI Feedback Systems** — Researching AI-driven assessments to enhance student learning outcomes
-- 🎓 **Adaptive Learning** — Personalizing quiz experiences for Sri Lankan A/L Chemistry students
-- 🔗 **Blockchain Verification** — Decentralizing job applicant verification using Ethereum smart contracts
+Applied Mathematics · Pure Mathematics · Computational Mathematics · Data Science · Machine Learning · Natural Language Processing · Social Science · International Relations
 
 ---
 
