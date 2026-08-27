@@ -85,14 +85,21 @@
 
 ## 📊 GitHub Analytics
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Eshin22&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Eshin22&theme=react-dark" alt="Activity Graph" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/github/followers/Eshin22?label=Followers&style=flat-square&logo=github&color=blue" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/Eshin22?label=Total%20Stars&style=flat-square&logo=github&color=yellow" alt="Stars" />
+  <img src="https://img.shields.io/badge/dynamic/json?color=green&label=Repos&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2FEshin22&style=flat-square&logo=github" alt="Repositories" />
+</p>
+
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=Eshin22&show_icons=true&count_private=true&hide_border=true&title_color=00D9FF&icon_color=00D9FF&text_color=ffffff&bg_color=0D1117" width="49%"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eshin22&layout=compact&hide_border=true&title_color=00D9FF&text_color=ffffff&bg_color=0D1117" width="49%"/>
-
-<img src="https://streak-stats.demolab.com?user=Eshin22&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF&sideLabels=00D9FF&dates=ffffff" width="70%"/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Eshin22&bg_color=0D1117&color=00D9FF&line=00D9FF&point=ffffff&area=true&hide_border=true" width="90%"/>
 
 </div>
 
