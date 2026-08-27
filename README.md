@@ -86,8 +86,11 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Eshin22&theme=radical" alt="GitHub Streak" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Eshin22&theme=react-dark" alt="Activity Graph" />
+  <img src="https://github-readme-streak-stats-salesp07.vercel.app/?user=Eshin22&theme=radical" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Eshin22&theme=react-dark" alt="Activity Graph" width="90%" />
 </p>
 
 <p align="center">
@@ -100,6 +103,8 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=Eshin22&show_icons=true&count_private=true&hide_border=true&title_color=00D9FF&icon_color=00D9FF&text_color=ffffff&bg_color=0D1117" width="49%"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eshin22&layout=compact&hide_border=true&title_color=00D9FF&text_color=ffffff&bg_color=0D1117" width="49%"/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=Eshin22&theme=algolia&no-frame=true&no-bg=true&margin-w=6&column=6" width="90%"/>
 
 </div>
 
