@@ -1,148 +1,221 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1a3a5c,100:58A6FF&height=200&section=header&text=Eshin%20Menusha&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Science%20%26%20ML%20Engineer%20%7C%20Full-Stack%20Developer%20%7C%20Researcher&descAlignY=58&descSize=16&descColor=adbac7" width="100%"/>
-
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,30,21&height=300&section=header&text=Eshin%20Menusha&fontSize=90&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full-Stack%20Developer%20%E2%80%A2%20AI%20%26%20ML%20Engineer%20%E2%80%A2%20Researcher&descAlignY=55&descSize=22" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Building+scalable%2C+data-driven+systems+%F0%9F%9A%80;Java+%7C+Spring+Boot+%7C+Next.js+%7C+AWS;Data+Science+%7C+ML+%7C+Applied+Mathematics+%F0%9F%94%AC;Microservices+%7C+NLP+%7C+GNNs+%7C+Agentic+AI" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Building+scalable+microservices+%F0%9F%9A%80;Crafting+intelligent+AI+agents+%F0%9F%A4%96;Researching+ML+%2B+Applied+Mathematics+%F0%9F%94%AC;Let's+build+something+amazing!" alt="Typing SVG" />
 </a>
 
-<br/><br/>
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100%">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/EshinMenusha22)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Eshin22)
-![Profile Views](https://komarev.com/ghpvc/?username=Eshin22&style=for-the-badge&color=58A6FF&label=PROFILE+VIEWS)
+<a href="https://linkedin.com/in/EshinMenusha22"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" /></a>
+<a href="https://github.com/Eshin22"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717" /></a>
+<img src="https://img.shields.io/badge/Location-Sri%20Lanka-4ecdc4?style=for-the-badge&logo=googlemaps&logoColor=white" />
+<img src="https://komarev.com/ghpvc/?username=Eshin22&style=for-the-badge&color=00D9FF&label=PROFILE+VIEWS" />
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-## 👨‍💻 About Me
+## ✨ About Me
 
-```yaml
-name        : Eshin Menusha
-location    : Sri Lanka 🇱🇰
-background  : Undergraduate — Data Science & Machine Learning Engineering, Minor in Mathematics
-focus       :
-  - Scalable microservices architectures & full-stack engineering
-  - Applied & pure mathematics, statistical learning
-  - Agentic AI workflows and NLP research
-stack       : Java · Spring Boot · React · Next.js · AWS · Python
-currently   : Researching microservice decomposition & Sinhala NLP
-goal        : Pursuing a PhD building on my research background
-motto       : "Build to solve. Learn to grow. Share to inspire."
-```
+<table>
+<tr>
+<td width="60%" valign="top">
 
-I'm a Computer Science undergraduate specializing in Data Science and Machine Learning, with a strong foundation in the Java ecosystem and AWS cloud services. My work spans full-stack development, DevOps, and UI/UX design, with a professional focus on building scalable microservices and high-performance applications across the full software development lifecycle. My research interests lie in applied and pure mathematics, statistical learning, and data science — currently pursuing coursework in operational research, linear models and multivariate statistics, algebra and topology, time series and stochastic processes, and optimization, alongside two ongoing research projects in microservice decomposition and Sinhala NLP.
+🎯 **Mission:** Turning rigorous mathematical foundations into scalable, data-driven software
+🔮 **Focus:** Data Science & Machine Learning Engineering, with a Minor in Mathematics
+🧩 **Building:** Microservices, agentic AI workflows, and NLP systems
+🎓 **Researching:** Microservice decomposition via code embeddings & Sinhala script robustness in LLMs
+📐 **Studying:** Operational research, multivariate statistics, algebra & topology, stochastic processes, optimization
+🚀 **Goal:** Pursuing a PhD building on my research background
+🧠 **Fun fact:** I enjoy problems that sit right at the intersection of math and code
 
----
+</td>
+<td width="40%" valign="top" align="center">
 
-## 📊 GitHub Stats
+<img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="100%">
+
+</td>
+</tr>
+</table>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+## 🧬 Technology Arsenal
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Eshin22&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" height="175"/>
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eshin22&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" height="175"/>
+**🔥 Languages**
+<br>
+<img src="https://skillicons.dev/icons?i=java,python,js,ts,cpp,html,css" />
+
+**🎨 Frontend**
+<br>
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" />
+
+**⚡ Backend**
+<br>
+<img src="https://skillicons.dev/icons?i=spring,nodejs,fastapi,express" />
+
+**🗄️ Databases**
+<br>
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis" />
+
+**☁️ Cloud, DevOps & Distributed Systems**
+<br>
+<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,githubactions,git" />
+
+**🤖 AI / ML**
+<br>
+<img src="https://skillicons.dev/icons?i=pytorch,sklearn,py" />
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+<img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+
+**⛓️ Emerging Tech**
+<br>
+<img src="https://skillicons.dev/icons?i=solidity" />
+<img src="https://img.shields.io/badge/Ethereum-3C3C3C?style=for-the-badge&logo=ethereum&logoColor=white" />
 
 </div>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+## 📊 GitHub Analytics
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=Eshin22&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF&sideLabels=C9D1D9&dates=8B949E&stroke=0D1117" width="55%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Eshin22&show_icons=true&count_private=true&hide_border=true&title_color=00D9FF&icon_color=00D9FF&text_color=ffffff&bg_color=0D1117&ring_color=00D9FF" height="175"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Eshin22&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF&sideLabels=00D9FF&dates=ffffff" height="175"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eshin22&layout=compact&hide_border=true&title_color=00D9FF&text_color=ffffff&bg_color=0D1117" height="175"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Eshin22&bg_color=0D1117&color=00D9FF&line=00D9FF&point=ffffff&area=true&hide_border=true" width="90%"/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=Eshin22&theme=algolia&no-frame=true&no-bg=true&margin-w=6&column=6" width="90%"/>
 
 </div>
 
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Eshin22&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=6)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
-## 📈 Contribution Activity
-
-<div align="center">
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Eshin22&bg_color=0D1117&color=58A6FF&line=58A6FF&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
----
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 ## 🔬 Research Projects
 
-| Project | Description | Tools |
-|---|---|---|
-| 🧩 **Microservice Decomposition** *(Final Year Project)* | Improving automatic microservice decomposition via enhanced code embeddings — hierarchical clustering, call-graph community detection, and a multi-metric loss combining reconstruction, triplet, and clustering losses with architectural quality metrics | Python · PyTorch · GNN · Contrastive Learning |
-| 🇱🇰 **Sinhala Script Robustness (NLP)** | Evaluating whether LLM perplexity degradation on Romanized vs. Unicode Sinhala translates into real downstream task failures, across multiple open/closed models with paired statistical testing | Python · Hugging Face · PyTorch |
+<table>
+<tr>
+<td width="50%" valign="top">
 
----
+### 🧩 Microservice Decomposition
+*Final Year Research Project — Ongoing*
 
-## 🔥 Featured Projects
+Improving automatic microservice decomposition through enhanced code embeddings — call-graph community detection, hierarchical multi-granularity embeddings, and a multi-metric loss combining reconstruction, triplet, and clustering losses with architectural quality metrics (SM, IFN, ICP). Building and benchmarking a prototype tool against systems like JPetStore, AcmeAir, DayTrader, and Plants.
 
-| # | Project | Description | Stack |
-|---|---------|-------------|-------|
-| 💸 | **[PricePluse](https://github.com/ProductPriceTrackerOrg)** | Real-time multi-platform product price tracker with trend analysis, price-drop alerts, forecasting, and a GNN-powered recommendation engine | Scrapy · FastAPI · Next.js · Airflow · BigQuery · GNN |
-| 📄 | **[ResumeRover](https://github.com/ResumeRover/Main)** | Intelligent resume screening system with AI/ML candidate evaluation and blockchain-based credential verification | FastAPI · Next.js · MongoDB · Solidity · Ganache |
-| 🚚 | **[SCMSystem](https://github.com/HarshaYohan/SupplyChainManagementSystem/tree/master)** | Full-stack logistics platform integrating railway capacity planning with last-mile truck routing and workforce scheduling | Next.js · Node.js · MySQL |
-| 🎵 | **[Song Popularity Prediction](https://github.com/DataGuildHQ/Music-Hype-Prediction-ML-Approach)** | Predictive pipeline for the mlX 2.0 Regression Challenge using gradient-boosted ensembles; co-authored a peer-reviewed paper on the results | XGBoost · LightGBM · CatBoost |
-| 🛍️ | **[Clustering-Based Customer Segmentation](https://github.com/Eshin22/Clustering-Based-Customer-Segmentation-from-Online-Retail-Data)** | RFM feature engineering and comparative clustering (K-Means, DBSCAN, AGNES) for actionable customer personas | Python · Scikit-learn |
+`Python` `PyTorch` `GNN` `Contrastive Learning`
 
----
+</td>
+<td width="50%" valign="top">
 
-## 🧰 Tech Stack
+### 🇱🇰 Sinhala Script Robustness
+*NLP Research — [View Repo](https://github.com/sehan-dissanayake/sinhala-script-robustness) — Ongoing*
 
-### 🌐 Languages & Frameworks
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=next.js&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+Investigating whether the perplexity degradation LLMs show on Romanized vs. Unicode Sinhala translates into real downstream task failures — measuring extrinsic performance across open/closed models, computing tokenizer-independent intrinsic metrics, and benchmarking transliteration approaches with paired significance testing.
 
-### 🤖 AI & Machine Learning
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+`Python` `Hugging Face` `PyTorch`
 
-### 🗄️ Databases
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+</td>
+</tr>
+</table>
 
-### ☁️ Cloud, DevOps & Distributed Systems
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![gRPC](https://img.shields.io/badge/gRPC-244c5a?style=for-the-badge&logo=google&logoColor=white)
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-### ⛓️ Emerging Tech
-![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3C?style=for-the-badge&logo=ethereum&logoColor=white)
-![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
+## 🚀 Featured Projects
 
----
+<table>
+<tr>
+<td width="50%" valign="top">
 
-## 📝 Research Interests
+### 💸 [PricePluse](https://github.com/ProductPriceTrackerOrg)
+Real-time multi-platform product price tracker with historical trend analysis, price-drop alerts, and forecasting with anomaly detection. GNN-powered product recommendation engine plus a built-in support chatbot.
 
-Applied Mathematics · Pure Mathematics · Computational Mathematics · Data Science · Machine Learning · Natural Language Processing · Social Science · International Relations
+`Scrapy` `FastAPI` `Next.js` `Airflow` `BigQuery` `GNN`
 
----
+</td>
+<td width="50%" valign="top">
+
+### 📄 [ResumeRover](https://github.com/ResumeRover/Main)
+Intelligent resume screening system with automated data extraction, AI/ML candidate evaluation, and a blockchain-based credential verification module built with Solidity and Ganache.
+
+`FastAPI` `Next.js` `MongoDB` `Solidity`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🚚 [SCMSystem](https://github.com/HarshaYohan/SupplyChainManagementSystem/tree/master)
+Full-stack logistics management platform integrating railway capacity planning with last-mile truck routing, automated workforce rosters, and reporting dashboards.
+
+`Next.js` `Node.js` `MySQL`
+
+</td>
+<td width="50%" valign="top">
+
+### 🎵 [Song Popularity Prediction](https://github.com/DataGuildHQ/Music-Hype-Prediction-ML-Approach)
+Predictive pipeline for the mlX 2.0 Regression Challenge using gradient-boosted ensembles; co-authored a peer-reviewed paper on the feature-engineering approach.
+
+`XGBoost` `LightGBM` `CatBoost`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🛍️ [Customer Segmentation](https://github.com/Eshin22/Clustering-Based-Customer-Segmentation-from-Online-Retail-Data)
+RFM feature engineering and comparative clustering (K-Means, DBSCAN, AGNES) to generate actionable customer personas for targeted marketing.
+
+`Python` `Scikit-learn`
+
+</td>
+<td width="50%" valign="top">
+
+### 🧭 Explore More
+Check out my pinned repositories for additional full-stack, ML, and research work — new projects added regularly.
+
+[**→ View all repositories**](https://github.com/Eshin22?tab=repositories)
+
+</td>
+</tr>
+</table>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+## 🎯 Philosophy
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,50:1a3a5c,100:0D1117&height=120&section=footer&animation=fadeIn" width="100%"/>
+> *"Build to solve. Learn to grow. Share to inspire."*
+
+🎨 **Craftsmanship** — writing clean, maintainable code grounded in solid theory
+🔬 **Rigor** — bringing mathematical thinking to every engineering decision
+🤝 **Collaboration** — leading teams and building things together
+📚 **Curiosity** — constantly exploring applied math, ML, and NLP research
+🌍 **Impact** — creating solutions that make a measurable difference
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+<div align="center">
+
+### 🤝 Let's Connect
+
+💼 **Open to:** research collaborations, internships, and full-stack / ML engineering opportunities
+🌟 **Interests:** applied mathematics, NLP, agentic AI, and microservice architecture
+
+<a href="https://linkedin.com/in/EshinMenusha22"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://github.com/Eshin22"><img src="https://img.shields.io/badge/Follow_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,30,21&height=150&section=footer" width="100%"/>
 
 **⭐ Star my repos if you find them useful!**
-
-*"Build to solve. Learn to grow. Share to inspire."* 🚀
 
 </div>
