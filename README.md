@@ -8,6 +8,8 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100%">
 
+# Hi, I'm Eshin Menusha 👋
+
 <a href="https://linkedin.com/in/EshinMenusha22"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" /></a>
 <a href="https://github.com/Eshin22"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717" /></a>
 <img src="https://img.shields.io/badge/Location-Sri%20Lanka-4ecdc4?style=for-the-badge&logo=googlemaps&logoColor=white" />
