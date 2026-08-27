@@ -1,5 +1,7 @@
 <div align="center">
 
+# Hi, I'm Eshin Menusha 👋
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,30,21&height=300&section=header&text=Eshin%20Menusha&fontSize=90&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full-Stack%20Developer%20%E2%80%A2%20AI%20%26%20ML%20Engineer%20%E2%80%A2%20Researcher&descAlignY=55&descSize=22" width="100%"/>
 
 <a href="https://git.io/typing-svg">
@@ -7,8 +9,6 @@
 </a>
 
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100%">
-
-# Hi, I'm Eshin Menusha 👋
 
 <a href="https://linkedin.com/in/EshinMenusha22"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" /></a>
 <a href="https://github.com/Eshin22"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717" /></a>
@@ -87,14 +87,12 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Eshin22&show_icons=true&count_private=true&hide_border=true&title_color=00D9FF&icon_color=00D9FF&text_color=ffffff&bg_color=0D1117&ring_color=00D9FF" height="175"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Eshin22&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF&sideLabels=00D9FF&dates=ffffff" height="175"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Eshin22&show_icons=true&count_private=true&hide_border=true&title_color=00D9FF&icon_color=00D9FF&text_color=ffffff&bg_color=0D1117" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eshin22&layout=compact&hide_border=true&title_color=00D9FF&text_color=ffffff&bg_color=0D1117" width="49%"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eshin22&layout=compact&hide_border=true&title_color=00D9FF&text_color=ffffff&bg_color=0D1117" height="175"/>
+<img src="https://streak-stats.demolab.com?user=Eshin22&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF&sideLabels=00D9FF&dates=ffffff" width="70%"/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Eshin22&bg_color=0D1117&color=00D9FF&line=00D9FF&point=ffffff&area=true&hide_border=true" width="90%"/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=Eshin22&theme=algolia&no-frame=true&no-bg=true&margin-w=6&column=6" width="90%"/>
 
 </div>
 
